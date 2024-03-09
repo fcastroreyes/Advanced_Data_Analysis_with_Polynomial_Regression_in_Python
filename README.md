@@ -17,3 +17,9 @@ Install the necessary Python libraries:
 - Application of Polynomial Features for regression analysis.
 - Use of Pipelines for efficient data processing.
 - Model tuning and evaluation for optimal performance.
+
+# Contributing
+- Interested in contributing? Fork the repository, commit your improvements, and submit a pull request.
+
+# License
+- This project is shared under the MIT License.
